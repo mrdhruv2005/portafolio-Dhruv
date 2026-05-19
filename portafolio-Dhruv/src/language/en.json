@@ -1,0 +1,101 @@
+{
+    "home": "Home",
+    "about": "About me",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact",
+
+    "site-web": "Projects",
+    "games": "games",
+
+    "greeting": "Hello",
+    "name": "I am Dhruv Garg",
+    "rol": "Generative AI & Data Science Developer",
+
+    "im": "who I am",
+    "description": "My name is Dhruv Garg and I am a B.Tech student passionate about Artificial Intelligence and Machine Learning.",
+    "my-description": "I am a Computer Science engineering student at SKIT, Jaipur. I specialize in Generative AI, LLM Applications, Prompt Engineering, Machine Learning, and building scalable full-stack applications.",
+    "years": "Age: ",
+    "from": "Jaipur, Rajasthan",
+    "btn-know-more": "Read more",
+    "tools": "Skills & Tools",
+
+    "design": "Generative AI Development",
+    "design-info": "Building intelligent AI applications using LLMs, RAG pipelines, LangChain, vector databases, and chatbot systems for real-world automation and user interaction.",
+    "development": "Machine Learning & Deep Learning",
+    "development-info": "Developing predictive models and deep learning solutions using Python, Scikit-learn, TensorFlow, and PyTorch for data-driven problem solving.",
+    "marketing": "Data Science & Analytics",
+    "marketing-info": "Performing data cleaning, visualization, and analysis using Pandas, NumPy, Matplotlib, and Plotly to extract meaningful business insights.",
+    "maintenance": "AI Deployment & MLOps",
+    "maintenance-info": "Deploying AI/ML applications using Docker, Hugging Face, Streamlit, Git, and cloud platforms for scalable and production-ready solutions.",
+
+    "btn-more-projects": "More projects",
+
+    "contact-info": "Contact me by: ",
+
+    "footer-info": "Page created by Dhruv Garg",
+
+    "about-info-1": "Hi, I'm Dhruv Garg, a B.Tech student in Computer Science and Engineering at SKIT, Jaipur. I have a strong passion for Artificial Intelligence and Machine Learning. I love solving complex problems and exploring the real-world applications of Generative AI.",
+    "about-info-2": "I consider myself an avid learner and a tech enthusiast. Recently, I built an AI-Powered Fraud Detection system using Llama 3 and a Flask-based Image Editor. I also actively participate in hackathons, like the GIT Hackathon 2024 where I secured a top 10 position. In addition, I have hands-on experience in Prompt Engineering, RAG architectures, and deploying large language models to create intelligent conversational agents.",
+    "about-info-3": "I am constantly honing my skills in Python, Java, SQL, and various modern AI frameworks like LangChain, Hugging Face, PyTorch, and TensorFlow. My goal is to build innovative, scalable, and impactful AI-driven solutions that push the boundaries of data science and automation.",
+    "btn-cv": "Download CV",
+    
+    "about-skills-1": "Proficient in Python for backend development, scripting, and machine learning.",
+    "about-skills-2": "Experienced in building robust APIs using FastAPI and Flask.",
+    "about-skills-3": "Familiar with modern frontend development using React and Next.js.",
+    "about-skills-4": "Skilled in integrating AI models and APIs into web applications.",
+    "about-skills-5": "Knowledgeable in using SQL and Redis for data management.",
+    "about-skills-6": "Proficient with Git, GitHub, and continuous deployment workflows.",
+    "about-skills-7": "Strong foundation in data structures and algorithmic problem-solving.",
+    "about-skills-8": "Experience with Data visualization libraries like Matplotlib and Seaborn.",
+    "about-skills-9": "Deep interest in Prompt Engineering and fine-tuning Language Models.",
+
+    "services-price": "Price",
+    "services-info-title-1": "Basic AI Model",
+    "services-info-title-2": "Advanced AI Application",
+    "services-info-sub-title-1": "Perfect for simple tasks",
+    "services-info-sub-title-2": "Designed for startups",
+    "services-info-sub-title-3": "Great for enterprise scale",
+    "services-info-1-p1": " 1 Custom ML Model",
+    "services-info-p2": " Data Preprocessing",
+    "services-info-p3": " Basic API Integration",
+    "services-info-1-p4": " Basic Report and Setup Guide",
+    "services-info-p4": " Local Deployment",
+    "services-info-p5": " Full Documentation",
+    "services-info-1-p6": " Delivered in 7 business days",
+    "services-info-2-p1": " Custom RAG/LLM System",
+    "services-info-p6": " Web App Interface",
+    "services-info-p7": " Free maintenance for 1 month",
+    "services-info-2-p6": " Delivered in 14 business days",
+    "services-info-3-p1": " Enterprise AI Pipeline",
+    "services-info-3-p3": " Advanced API Integration",
+    "services-info-3-p7": " Free maintenance for 3 months",
+    "services-info-3-p6": " Delivered in 30 business days",
+    "services-buy": "buy now",
+    "services-questions": "Frequent questions",
+    "services-questions-1": "What is Generative AI and how can it help me?",
+    "services-questions-p1": "Generative AI uses large language models to automate tasks, generate content, and streamline your business workflows efficiently.",
+    "services-questions-2": "Do I need a large dataset to train a model?",
+    "services-questions-p2": "Not always. For many use cases, we can utilize pre-trained models (like Llama 3) and fine-tune them or use RAG with your company documents.",
+    "services-questions-3": "Is monthly maintenance necessary for AI?",
+    "services-questions-p3": "Yes, AI models can experience 'data drift'. Regular maintenance ensures the model remains accurate and APIs stay updated.",
+    "services-questions-4": "How do you deploy these AI solutions?",
+    "services-questions-p4": "I containerize applications using Docker and deploy them on scalable cloud platforms like AWS, GCP, or Railway with a frontend interface.",
+
+    "projects-link": "Link:",
+    "projects-tec": "Used technology:",
+    
+    "projects-info-1-p1": "AI-Powered Fraud Detection & Automation System.",
+    "projects-info-1-p2": "Built a Generative AI-based conversational agent using Llama 3 via Groq API. It features a dual-layer detection system with 95% accuracy and an automation pipeline to extract structured data.",
+    
+    "projects-info-2-p1": "Flask Image Editor.",
+    "projects-info-2-p2": "Built a web-based image editor using Flask & OpenCV with features like resize, blur, and format conversion. Optimized deployment using Gunicorn + Railway and added automated cleanup.",
+
+    "projects-info-3-p1": "Movie Recommendation System.",
+    "projects-info-3-p2": "An NLP-based movie recommendation platform built with Streamlit. Allows users to search for movies and receive accurate, content-based recommendations.",
+
+    "projects-info-4-p1": "MoodBot AI.",
+    "projects-info-4-p2": "A dynamic conversational AI with 4 distinct personality modes (Sad, Anger, Romantic, Normal). It adjusts its responses based on the selected emotional state.",
+
+    "projectsGame-info-4-p2": "You must guess the 2 pairs of cards in the shortest time and with fewer clicks."
+}

@@ -1,0 +1,46 @@
+Dhruv Garg
+Jaipur, Rajasthan
+♂phone+91-8824950062 —/envel⌢pedhruvgarg4848@gmail.com
+/githubGitHub —/codeLeetCode —/utensilsCodeChef —♂laptop-codeCodolio
+Profile
+–Interests:Generative AI, LLM Applications, Prompt Engineering, Machine Learning
+Education
+Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT)2023 – 2027
+B.Tech in Computer Science and Engineering,CGPA: 8.5Jaipur, Rajasthan
+St. Peter’s Sr. Sec. School 2022
+Senior Secondary (Class XII),89.8%Bharatpur, Rajasthan
+St. Peter’s Sr. Sec. School 2020
+Secondary (Class X),90%Bharatpur, Rajasthan
+Projects
+AI-Powered Fraud Detection & Automation System2026
+–Built aGenerative AI-based conversational agent (Llama 3 via Groq API)using prompt engineering to simulate
+scam interactions and automate responses.
+–Developed adual-layer detection systemcombining rule-based methods (170+ patterns) and Naive Bayes model
+achieving95% accuracy.
+–Designed anautomation pipeline to extract structured data(bank accounts, UPI IDs, phone numbers, phishing
+links) from unstructured conversations.
+–Built full-stack system usingNext.js, FastAPI, Redis, improving workflow efficiency by reducing manual effort.
+Live Demo:cyberguard77.vercel.appGitHub:github.com/mrdhruv2005
+Flask Image Editor 2025
+–Built a web-based image editor usingFlask & OpenCVwith features like resize, blur, and format conversion.
+–Optimized deployment usingGunicorn + Railwayand added automated cleanup using APScheduler.
+Live Demo:web-production-b5474.up.railway.appGitHub:flask-image-editor
+Internship
+Kistechno Software Pvt. Ltd.July 2024 – Aug 2024
+Web Development Intern Jaipur, Rajasthan
+–Developed responsive web pages usingHTML, CSS, JavaScript.
+–Collaborated in team environment to deliver project modules on time.
+Technical Skills
+Languages:Java, Python, SQL
+Core Areas:Generative AI (LLMs, Prompt Engineering), Machine Learning, Deep Learning, Data Structures &
+Algorithms
+AI/ML Libraries:Scikit-learn, TensorFlow, Keras, PyTorch
+Data & Visualization:Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Development & Tools:Flask, REST APIs, Git, GitHub, Jupyter Notebook, VS Code
+Achievements
+–Solved500+ DSA problemson LeetCode, CodeChef, Codeforces.
+–Top 10 in GIT Hackathon 2024 among 200+ participants.
+–Exploring real-world applications ofGenerative AI in workflow automation.Certifications
+–Web Development Internship – Kistechno
+–Python Training – GRRAS
+–Python Essentials 1 – Cisco
