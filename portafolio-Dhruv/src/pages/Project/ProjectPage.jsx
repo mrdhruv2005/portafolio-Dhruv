@@ -269,7 +269,7 @@ const Project = () => {
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Demo:</span> <a href="https://share.streamlit.io/" target="_blank" rel="noreferrer">Live App (Streamlit)</a><br/>
+                <span>Demo:</span> <a href="https://multi-agent-system-researcher-jdg4vvoihvh5n89excwvhw.streamlit.app/" target="_blank" rel="noreferrer">Live App (Streamlit)</a><br/>
                 <span>Repo:</span> <a href="https://github.com/mrdhruv2005/Multi-Agent-System-Researcher" target="_blank" rel="noreferrer">https://github.com/mrdhruv2005/Multi-Agent-System-Researcher</a>
               </div>
               <div className="eins-modal-text-3">

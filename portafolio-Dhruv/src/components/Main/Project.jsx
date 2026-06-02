@@ -131,6 +131,25 @@ const Project = () => {
                             <a href="https://github.com/mrdhruv2005/moodbot-ai" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
+                    <SwiperSlide className='caja'>
+                        <img
+                            src={proyectImg(`./dhruv-proj-multiagent-1.png`)}
+                            alt='proyectos'
+                        />
+                        <div className="content">
+                            <h3>ResearchMind</h3>
+                            <p>
+                                Autonomous AI Agents
+                            </p>
+                            <p className="tecnologias">
+                                Mistral AI
+                                <span> -</span> Streamlit
+                                <span> -</span> Python
+                            </p>
+                            <a href="https://multi-agent-system-researcher-jdg4vvoihvh5n89excwvhw.streamlit.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/mrdhruv2005/Multi-Agent-System-Researcher" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                        </div>
+                    </SwiperSlide>
                 </Swiper>
                 <div className="swiper-pagination"></div>
             </div>
