@@ -1,0 +1,5 @@
+{
+  "name": "portafolio-dhruv",
+  "installCommand": "npm install --legacy-peer-deps",
+  "buildCommand": "CI=false react-scripts build"
+}
