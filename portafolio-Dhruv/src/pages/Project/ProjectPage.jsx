@@ -24,6 +24,7 @@ const Project = () => {
   const [estadoModal2, cambiarEstadoModal2] = useState(false);
   const [estadoModal3, cambiarEstadoModal3] = useState(false);
   const [estadoModal4, cambiarEstadoModal4] = useState(false);
+  const [estadoModal5, cambiarEstadoModal5] = useState(false);
 
   return (
     <div>
@@ -69,6 +70,11 @@ const Project = () => {
           <div className="projects__item">
             <a onClick={() => cambiarEstadoModal4(!estadoModal4)}>
               <img src={proyectsImg(`./dhruv-proj-moodbot-1.png`)} alt="" className="projects__img" />
+            </a>
+          </div>
+          <div className="projects__item">
+            <a onClick={() => cambiarEstadoModal5(!estadoModal5)}>
+              <img src={proyectsImg(`./dhruv-proj-multiagent-1.png`)} alt="" className="projects__img" />
             </a>
           </div>
         </section>
@@ -235,6 +241,47 @@ const Project = () => {
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="" />
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" alt="" />
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </Modal>
+
+      <Modal
+        estado={estadoModal5}
+        cambiarEstado={cambiarEstadoModal5}
+      >
+        <div className="content-modal">
+          <div className="pw-content">
+            <div className="eins-modal-preview"><img src={proyectsImg(`./dhruv-proj-multiagent-2.png`)} alt="" /></div>
+            <div className="eins-modal-text">
+              <p>
+                <FormattedMessage
+                  id='projects-info-5-p1'
+                  defaultMessage='ResearchMind: Autonomous Multi-Agent System.'
+                />
+              </p>
+              <p>
+                <FormattedMessage
+                  id='projects-info-5-p2'
+                  defaultMessage='An autonomous research pipeline built with LangChain and Mistral AI. It features 4 specialized agents that collaborate to search, scrape, draft, and review comprehensive research reports automatically.'
+                />
+              </p>
+              <div className="eins-modal-text-2">
+                <span>Demo:</span> <a href="https://share.streamlit.io/" target="_blank" rel="noreferrer">Live App (Streamlit)</a><br/>
+                <span>Repo:</span> <a href="https://github.com/mrdhruv2005/Multi-Agent-System-Researcher" target="_blank" rel="noreferrer">https://github.com/mrdhruv2005/Multi-Agent-System-Researcher</a>
+              </div>
+              <div className="eins-modal-text-3">
+                <span>
+                  <FormattedMessage
+                    id='projects-tec'
+                    defaultMessage='Used technology:'
+                  />
+                </span>
+                <div className="eins-modal-tec">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="" />
+                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" alt="" />
                 </div>
               </div>
             </div>
